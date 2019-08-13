@@ -18,6 +18,7 @@
 
 .find .header-btn__icon {
   font-size: 12px;
+  cursor: pointer;
 }
 
 .find .find__recommended {
@@ -30,4 +31,8 @@
   font-size: 12px;
   opacity: 0.7;
   margin-bottom: 20px;
+}
+
+.friend__column .friend__add-btn {
+  cursor: pointer;
 }
